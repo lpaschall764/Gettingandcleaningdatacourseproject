@@ -36,5 +36,4 @@ This file describes:
 
   ## Requirements
   The following packages are required:
-  ```r
-install.packages("dplyr")
+  ```r install.packages("dplyr")
