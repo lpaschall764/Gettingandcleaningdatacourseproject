@@ -6,7 +6,7 @@ This project utilizes the Human Activity Recognition Using Smartphones Dataset w
 
 ---
 
-#Repository Contents 
+# Repository Contents 
 
 ## R Script 
 Filename: 'run_analysis.R'
